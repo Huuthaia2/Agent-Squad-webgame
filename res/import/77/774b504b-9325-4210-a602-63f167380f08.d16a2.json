@@ -1,0 +1,1 @@
+{"__type__":"cc.Material","_effectAsset":{"__uuid__":"d1NGQ2rJZCcbhjH0/erZWw"},"_techIdx":1,"_defines":[{}],"_states":[{"blendState":{"targets":[{}]},"depthStencilState":{},"rasterizerState":{}}],"_props":[{"tintColor":{"__type__":"cc.Color","r":199,"g":199,"b":199,"a":127},"mainTexture":{"__uuid__":"c1KS4Gh0NI15pmUnAwO2v6@6c48a"}}]}
